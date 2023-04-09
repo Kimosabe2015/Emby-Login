@@ -12,7 +12,7 @@
     right: 0;
     top: 60px;
     content: " ";
-    background: url(https://mydomain.com/images/logo_white.png);
+    background: url(https://github.com/Kimosabe2015/Emby-Login/commit/5f043c2e2450639068c9203aa1bf4422c9df301c);
     background-size: 100% 100%;
     width: 240px;
     height: 52px;
