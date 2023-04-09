@@ -1,0 +1,19 @@
+ .imgLogoIcon {
+    display: none;
+}
+#loginPage {
+    padding-top: 130px;
+}
+#loginPage:before {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 60px;
+    content: " ";
+    background: url(https://mydomain.com/images/logo_white.png);
+    background-size: 100% 100%;
+    width: 240px;
+    height: 52px;
+}
